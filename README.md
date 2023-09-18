@@ -32,8 +32,8 @@ Some highlights and links to code:
 - Support for both portrait and landscape orientations.
 
 
-## :camera_flash: Screenshots
-<img src="/results/video.gif" width="360">&emsp;<img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">
+## :camera_flash: Video Recording
+[device-2023-09-18-125058.webm](https://github.com/esthcarelle/Swinging-Balls-Timer/assets/52702726/2d209a6b-cbef-48bd-95e4-0cf0b4c7fdfa)
 
 ## License
 ```
