@@ -21,8 +21,8 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.compositeOver
 
 object Colors {
-    val androidGreen = Color(0xFF3DDC84)
-    val navy = Color(0xFF073042)
+    val androidGreen = Color(0xFF4984d1)
+    val navy = Color(0xFF000000)
     val purplish = Color(0xFF880E4F)
     val lightBlue = Color(0xFFE0F7FA)
 
